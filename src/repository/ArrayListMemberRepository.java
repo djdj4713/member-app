@@ -64,3 +64,5 @@ public class ArrayListMemberRepository implements MemberRepository{
         return true;
     }
 }
+
+//수정
